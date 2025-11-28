@@ -56,7 +56,7 @@ Spotify-Pop-Classification/
 │   └── Informe_Final_Mineria.pdf  # Documentación técnica detallada (Fases CRISP-DM)
 └── 📄 README.md                   # Presentación del proyecto
 ```
-##🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico
 Lenguaje: Python 3.x 🐍
 
 Análisis de Datos: Pandas, NumPy.
@@ -65,7 +65,7 @@ Visualización Científica: Seaborn, Matplotlib.
 
 Machine Learning: Scikit-Learn (Preprocesamiento, Modelado, Métricas).
 
-👥 Créditos y Autoría
+## 👥 Créditos y Autoría
 Este proyecto fue desarrollado como parte de la cátedra de Minería de Datos de la carrera de Ingeniería Civil en Computación.
 
 Patricio Abarca - Investigación, Ingeniería de Datos y Modelado - https://github.com/Begluckt
